@@ -1,0 +1,15 @@
+C:\Users\varsh\Source\Repos\introduction-to-oop-project\bin\Debug\net6.0\introduction-to-oop.exe
+C:\Users\varsh\Source\Repos\introduction-to-oop-project\bin\Debug\net6.0\introduction-to-oop.deps.json
+C:\Users\varsh\Source\Repos\introduction-to-oop-project\bin\Debug\net6.0\introduction-to-oop.runtimeconfig.json
+C:\Users\varsh\Source\Repos\introduction-to-oop-project\bin\Debug\net6.0\introduction-to-oop.dll
+C:\Users\varsh\Source\Repos\introduction-to-oop-project\bin\Debug\net6.0\introduction-to-oop.pdb
+C:\Users\varsh\Source\Repos\introduction-to-oop-project\obj\Debug\net6.0\introduction-to-oop.csproj.AssemblyReference.cache
+C:\Users\varsh\Source\Repos\introduction-to-oop-project\obj\Debug\net6.0\introduction-to-oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varsh\Source\Repos\introduction-to-oop-project\obj\Debug\net6.0\introduction-to-oop.AssemblyInfoInputs.cache
+C:\Users\varsh\Source\Repos\introduction-to-oop-project\obj\Debug\net6.0\introduction-to-oop.AssemblyInfo.cs
+C:\Users\varsh\Source\Repos\introduction-to-oop-project\obj\Debug\net6.0\introduction-to-oop.csproj.CoreCompileInputs.cache
+C:\Users\varsh\Source\Repos\introduction-to-oop-project\obj\Debug\net6.0\introduction-to-oop.dll
+C:\Users\varsh\Source\Repos\introduction-to-oop-project\obj\Debug\net6.0\refint\introduction-to-oop.dll
+C:\Users\varsh\Source\Repos\introduction-to-oop-project\obj\Debug\net6.0\introduction-to-oop.pdb
+C:\Users\varsh\Source\Repos\introduction-to-oop-project\obj\Debug\net6.0\introduction-to-oop.genruntimeconfig.cache
+C:\Users\varsh\Source\Repos\introduction-to-oop-project\obj\Debug\net6.0\ref\introduction-to-oop.dll
