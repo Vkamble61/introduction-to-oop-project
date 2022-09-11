@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\varsh\\Source\\Repos\\introduction-to-oop-project\\introduction-to-oop.csproj": {}
+    "C:\\Users\\varsh\\source\\repos\\introduction-to-oop-project\\introduction-to-oop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\varsh\\Source\\Repos\\introduction-to-oop-project\\introduction-to-oop.csproj": {
+    "C:\\Users\\varsh\\source\\repos\\introduction-to-oop-project\\introduction-to-oop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\varsh\\Source\\Repos\\introduction-to-oop-project\\introduction-to-oop.csproj",
+        "projectUniqueName": "C:\\Users\\varsh\\source\\repos\\introduction-to-oop-project\\introduction-to-oop.csproj",
         "projectName": "introduction-to-oop",
-        "projectPath": "C:\\Users\\varsh\\Source\\Repos\\introduction-to-oop-project\\introduction-to-oop.csproj",
+        "projectPath": "C:\\Users\\varsh\\source\\repos\\introduction-to-oop-project\\introduction-to-oop.csproj",
         "packagesPath": "C:\\Users\\varsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\varsh\\Source\\Repos\\introduction-to-oop-project\\obj\\",
+        "outputPath": "C:\\Users\\varsh\\source\\repos\\introduction-to-oop-project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\varsh\\AppData\\Roaming\\NuGet\\NuGet.Config",

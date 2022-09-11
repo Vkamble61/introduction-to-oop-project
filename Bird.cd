@@ -15,7 +15,7 @@
       <FileName>Bird.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="introduction_to_oop.Penguin" Collapsed="true">
+  <Class Name="introduction_to_oop.Penguin">
     <Position X="10.5" Y="4.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAA=</HashCode>
