@@ -12,28 +12,29 @@
     <Position X="6" Y="4.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAABAIAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Bird.cs</FileName>
+      <FileName>Pigeon.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="introduction_to_oop.Penguin">
     <Position X="10.5" Y="4.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAA=</HashCode>
-      <FileName>Bird.cs</FileName>
+      <FileName>Penguin.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="introduction_to_oop.Parrot">
     <Position X="1.75" Y="4.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Bird.cs</FileName>
+      <FileName>Class1.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Interface Name="introduction_to_oop.IDance">
     <Position X="8.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAIAAAAAAAAAAAIAAAA=</HashCode>
-      <FileName>Bird.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IDance.cs</FileName>
+      <NewMemberFileName>Bird.cs</NewMemberFileName>
     </TypeIdentifier>
   </Interface>
   <Font Name="Segoe UI" Size="9" />
